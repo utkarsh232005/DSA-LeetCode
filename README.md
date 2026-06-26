@@ -37,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0027-remove-element) |
 | [0160-intersection-of-two-linked-lists](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0541-reverse-string-ii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0541-reverse-string-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0027-remove-element) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0682-baseball-game) |
 | [0766-toeplitz-matrix](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0766-toeplitz-matrix) |
