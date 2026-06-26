@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0058-length-of-last-word) |
 | [0541-reverse-string-ii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0709-to-lower-case) |
