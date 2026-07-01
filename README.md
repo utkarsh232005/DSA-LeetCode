@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0086-partition-list](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0027-remove-element) |
+| [0086-partition-list](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0541-reverse-string-ii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0541-reverse-string-ii) |
