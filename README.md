@@ -47,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0541-reverse-string-ii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0541-reverse-string-ii) |
+| [0658-find-k-closest-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0821-shortest-distance-to-a-character](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 ## Array
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0027-remove-element) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0658-find-k-closest-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0682-baseball-game) |
 | [0766-toeplitz-matrix](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0821-shortest-distance-to-a-character](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0821-shortest-distance-to-a-character) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1046-last-stone-weight](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1094-car-pooling) |
 ## Monotonic Stack
@@ -87,9 +90,18 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1094-car-pooling](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1094-car-pooling) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1094-car-pooling) |
+## Binary Search
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0658-find-k-closest-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
