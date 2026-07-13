@@ -163,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
