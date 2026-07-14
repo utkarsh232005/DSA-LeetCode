@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0070-climbing-stairs) |
+| [0441-arranging-coins](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0441-arranging-coins) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Greedy
