@@ -50,9 +50,6 @@ class Solution {
     public int longestCommonSubsequence(String str1, String str2) {
         int n = str1.length();
         int m = str2.length();
-        if(n<m){
-            return longestCommonSubsequence(str2,str1);
-        }
         int dp[][] = new int[n + 1][m + 1];
         for (int i = 0; i < n + 1; i++) {
             for (int j = 0; j < m + 1; j++) {
