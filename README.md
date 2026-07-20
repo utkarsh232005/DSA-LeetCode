@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1071-greatest-common-divisor-of-strings](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1143-longest-common-subsequence](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [1143-longest-common-subsequence](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
