@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1143-longest-common-subsequence](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
