@@ -1,23 +1,34 @@
 class Solution {
     public int uniqueXorTriplets(int[] nums) {
-        Set<Integer> uniqSet = new HashSet<>();
-        for(int i : nums){
-            uniqSet.add(i);
-        }
-        Integer[] uniqNums = uniqSet.toArray(new Integer[0]);
-        int n = uniqNums.length;
-        Set<Integer> pairXor = new HashSet<>();
-        for(int i=0;i<n;i++){
-            for(int j=i;j<n;j++){
-                pairXor.add(uniqNums[i] ^ uniqNums[j]);
+        int n = nums.length;
+
+        int[] pairXor = new int[2048];
+        int[] tripleXor = new int[2048];
+
+        // Compute all possible pair XORs
+        for (int i = 0; i < n; i++) {
+            for (int j = i; j < n; j++) {
+                pairXor[nums[i] ^ nums[j]] = 1;
             }
         }
-        Set<Integer> tripletXor = new HashSet<>();
-        for(int pair : pairXor){
-            for(int i : uniqNums){
-                tripletXor.add(pair ^ i);
+
+        // Generate triplet XORs
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < 2048; j++) {
+                if (pairXor[j] == 1) {
+                    tripleXor[j ^ nums[i]] = 1;
+                }
             }
         }
-        return tripletXor.size();
+
+        // Count distinct XOR values
+        int cnt = 0;
+        for (int value : tripleXor) {
+            if (value == 1) {
+                cnt++;
+            }
+        }
+
+        return cnt;
     }
 }
