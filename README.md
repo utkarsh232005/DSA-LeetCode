@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0682-baseball-game) |
 | [0766-toeplitz-matrix](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0821-shortest-distance-to-a-character](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [1004-max-consecutive-ones-iii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1094-car-pooling) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3312-sorted-gcd-pair-queries](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -153,12 +155,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0441-arranging-coins](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0658-find-k-closest-elements) |
+| [1004-max-consecutive-ones-iii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0658-find-k-closest-elements) |
+| [1004-max-consecutive-ones-iii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
