@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0541-reverse-string-ii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0709-to-lower-case) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Quickselect
 |  |
 | ------- |
