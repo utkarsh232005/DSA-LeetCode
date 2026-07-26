@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0821-shortest-distance-to-a-character](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1094-car-pooling) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
