@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1094-car-pooling) |
+| [1248-count-number-of-nice-subarrays](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0930-binary-subarrays-with-sum](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1094-car-pooling) |
+| [1248-count-number-of-nice-subarrays](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3312-sorted-gcd-pair-queries](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0441-arranging-coins](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1248-count-number-of-nice-subarrays](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
