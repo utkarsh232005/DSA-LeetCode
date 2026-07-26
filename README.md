@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0628-maximum-product-of-three-numbers](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0704-binary-search) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1094-car-pooling](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1094-car-pooling) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0070-climbing-stairs](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0441-arranging-coins](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0441-arranging-coins) |
+| [0628-maximum-product-of-three-numbers](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
