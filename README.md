@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0700-search-in-a-binary-search-tree](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -219,16 +220,19 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0100-same-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0700-search-in-a-binary-search-tree](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
