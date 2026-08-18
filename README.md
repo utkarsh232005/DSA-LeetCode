@@ -299,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
