@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2104-sum-of-subarray-ranges](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0682-baseball-game) |
 | [1094-car-pooling](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
