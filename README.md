@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0658-find-k-closest-elements) |
