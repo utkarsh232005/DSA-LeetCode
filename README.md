@@ -328,4 +328,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1927-sum-game) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
