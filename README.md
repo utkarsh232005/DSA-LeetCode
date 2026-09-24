@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1927-sum-game](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1927-sum-game) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1046-last-stone-weight](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1094-car-pooling) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1094-car-pooling](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1094-car-pooling) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -236,10 +240,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Tree
 |  |
 | ------- |
