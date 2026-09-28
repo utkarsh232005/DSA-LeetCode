@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1927-sum-game](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1927-sum-game) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
@@ -390,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0933-number-of-recent-calls) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
