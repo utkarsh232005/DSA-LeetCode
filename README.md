@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0541-reverse-string-ii) |
 | [0658-find-k-closest-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0821-shortest-distance-to-a-character](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0821-shortest-distance-to-a-character) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1094-car-pooling](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1094-car-pooling) |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0035-search-insert-position](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0704-binary-search) |
