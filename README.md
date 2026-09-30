@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0035-search-insert-position](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -302,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -361,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0268-missing-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Binary Search Tree
 |  |
