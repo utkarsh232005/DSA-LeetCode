@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1071-greatest-common-divisor-of-strings](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
@@ -398,5 +400,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
