@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1094-car-pooling](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
