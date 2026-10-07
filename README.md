@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0217-contains-duplicate) |
@@ -456,4 +459,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
