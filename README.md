@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1927-sum-game](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1927-sum-game) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Union-Find
 |  |
 | ------- |
