@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0682-baseball-game) |
 | [1094-car-pooling](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0766-toeplitz-matrix](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0766-toeplitz-matrix) |
