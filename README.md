@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2778-sum-of-squares-of-special-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -495,8 +497,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
