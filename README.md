@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0541-reverse-string-ii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0541-reverse-string-ii) |
 | [0658-find-k-closest-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0821-shortest-distance-to-a-character](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1248-count-number-of-nice-subarrays](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1094-car-pooling](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1094-car-pooling) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3312-sorted-gcd-pair-queries](https://github.com/utkarsh232005/DSA-LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
